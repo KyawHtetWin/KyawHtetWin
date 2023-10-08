@@ -1,10 +1,12 @@
 <h1>Hi Data Fam 👋, I'm Win</h1>
 <h3>I Approach Coding and Data with an Eye Towards Machine Learning.</h3>
 
-<h3>About Me</h3>
+## About Me
+
 I am a Computer Science Master’s graduate from California State University Long Beach. My journey into the world of computer science has been nothing short of exhilarating where I explore the software development process and data analytics.
 
 Recently, I was thrilled to have been a part of the incredible team at theCoderSchool where I have the privilege of mentoring and introducing young kids to programming. In August 2023, I took on an exciting challenge to set up the data analysis pipeline in Power BI for a client at a startup, allowing them to efficiently and quickly manage their sales on an ongoing basis. Before that, I utilized Python for about a year to support my supervisor’s novel research to bring resiliency in building against natural hazards.
+
 
 - 🔭 I’m currently working on [Analyzing Open Data to Drive Positive Change in Lima](https://omdena.com/chapter-challenges/analyzing-open-data-to-drive-positive-change-in-lima/)
 
