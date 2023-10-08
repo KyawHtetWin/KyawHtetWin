@@ -1,6 +1,6 @@
 <h1>Hi Data Fam 👋, I'm Win</h1>
 <h3>I Approach Coding and Data with an Eye Towards Machine Learning.</h3>
-</br>
+
 <h3>About Me</h3>
 <h4>I am a Computer Science Master’s graduate from California State University Long Beach. My journey into the world of computer science has been nothing short of exhilarating where I explore the software development process and data analytics.</h4>
 
