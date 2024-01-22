@@ -5,7 +5,7 @@
 
 I am a Computer Science Master’s graduate from California State University Long Beach. My journey into the world of computer science has been nothing short of exhilarating where I explore the software development process and data analytics.
 
-Recently, I have been contributing to open-source data and machine-learning projects at Omdena and I am excited to contribute to projects with direct societal impact. 
+Recently, I have been contributing to open-source data and machine-learning projects at Omdena and I am excited to contribute to projects with tangible societal impact. 
 
 For six months, I had a great time mentoring and tutoring kids at theCoderSchool, introducing them to programming and working on projects. 
 
