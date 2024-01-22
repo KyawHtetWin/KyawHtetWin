@@ -5,12 +5,14 @@
 
 I am a Computer Science Master’s graduate from California State University Long Beach. My journey into the world of computer science has been nothing short of exhilarating where I explore the software development process and data analytics.
 
-Recently, I was thrilled to have been a part of the incredible team at theCoderSchool where I have the privilege of mentoring and introducing young kids to programming.
+Recently, I have been contributing to open-source data and machine-learning projects at Omdena and I am excited to contribute to projects with direct societal impact. 
+
+Before that, I was thrilled to have been a part of the incredible team at theCoderSchool where I have the privilege of mentoring and introducing young kids to programming.
 
 In August 2023, I took on an exciting challenge to set up the data analysis pipeline in Power BI for a client at a startup, allowing them to efficiently and quickly manage their sales on an ongoing basis. Before that, I utilized Python for about a year to support my supervisor’s novel research to bring resiliency in building against natural hazards.
 
 
-- 🔭 I’m currently working on [Analyzing Open Data to Drive Positive Change in Lima](https://omdena.com/chapter-challenges/analyzing-open-data-to-drive-positive-change-in-lima/)
+- 🔭 I’m currently working on open-source projects & self-directed Generative AI projects. 
 
 - 🌱 I’m currently learning **Machine Learning and Cloud**
 
