@@ -7,7 +7,7 @@ I am a Computer Science Master’s graduate from California State University Lon
 
 Recently, I have been contributing to open-source data and machine-learning projects at Omdena and I am excited to contribute to projects with direct societal impact. 
 
-Before that, I was thrilled to have been a part of the incredible team at theCoderSchool where I have the privilege of mentoring and introducing young kids to programming.
+For six months, I had a great time mentoring and tutoring kids at theCoderSchool, introducing them to programming and working on projects. 
 
 In August 2023, I took on an exciting challenge to set up the data analysis pipeline in Power BI for a client at a startup, allowing them to efficiently and quickly manage their sales on an ongoing basis. Before that, I utilized Python for about a year to support my supervisor’s novel research to bring resiliency in building against natural hazards.
 
