@@ -1,4 +1,4 @@
-<h1>Hi Data Fam 👋, I'm Win</h1>
+<h1>Hi there 👋, I'm Win</h1>
 <h3>I Approach Coding and Data with an Eye Towards Machine Learning.</h3>
 
 ## About Me
