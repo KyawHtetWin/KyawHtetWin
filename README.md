@@ -12,7 +12,7 @@ For six months, I had a great time mentoring and tutoring kids at theCoderSchool
 In August 2023, I took on an exciting challenge to set up the data analysis pipeline in Power BI for a client at a startup, allowing them to efficiently and quickly manage their sales on an ongoing basis. Before that, I utilized Python for about a year to support my supervisor’s novel research to bring resiliency in building against natural hazards.
 
 
-- 🔭 I’m currently working on open-source projects & self-directed Generative AI projects. 
+- 🔭 I’m currently as a data scientist developing enterprise Generative AI solutions.
 
 - 🌱 I’m currently learning **Machine Learning and Cloud**
 
